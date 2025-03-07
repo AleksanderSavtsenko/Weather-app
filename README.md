@@ -1,4 +1,4 @@
-<h1>Weather App</h1>
+  <h1>Weather App Using Javascript,HTML and CSS</h1>
   A responsive weather app that provides real-time weather data for any city. Users can search for cities, view current weather, and check a 5-day forecast with temperature and weather conditions.
 
 <h3>Features:</h3>
