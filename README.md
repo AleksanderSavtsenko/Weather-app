@@ -13,3 +13,11 @@
   <li>HTML, CSS (Flexbox, Animations)</li>
   <li>JavaScript (Weather API)</li>
 </ul>
+
+Screenshot:
+![App Screenshot](Images/Screenshot%202025-03-07%20153842.png)
+
+<h3>Setup</h3>
+
+1. Create an account at [OpenWeather](https://openweathermap.org/) and get your API key.
+2. Replace `YOUR_API_KEY` in the code with your key.
